@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btn_mainMenu"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:title="@string/menu_item_settings"
+        app:showAsAction="ifRoom" />
+</menu>
