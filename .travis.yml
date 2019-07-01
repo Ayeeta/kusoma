@@ -1,2 +1,2 @@
 language: android
-dist: trusty
+jdk: jdk-12.0.1
